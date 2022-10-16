@@ -15,6 +15,7 @@ Wireguard configuration file:
 #Name: Home-PC
 PrivateKey = XXXXXX
 AllowedIPs = XXXXXX
+...
 ```
 
 Script output:
